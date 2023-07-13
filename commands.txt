@@ -1,0 +1,19 @@
+npm start
+
+npm run
+
+npm server.js in the terminal to run the doc app
+
+to create a react app execute the following command npx create-react-app => name of the application it will run on port 3000
+
+npm i react-router-dom axios
+
+import "antd/dist/reser.css" in index.js
+
+to run both servers on same port we use concurrently package
+
+after that connect to database i.e mongodb signup on mongodb and create cluster then go to browse collections and create a new database
+
+create a new file in config folder naming db.js
+
+task => create schema for user and create RestApi for the Login and Register
